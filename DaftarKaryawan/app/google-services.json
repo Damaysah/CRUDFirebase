@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674998273969",
+    "project_id": "daftarkaryawan-47f01",
+    "storage_bucket": "daftarkaryawan-47f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674998273969:android:7645684eb28eef1de35f90",
+        "android_client_info": {
+          "package_name": "com.damsah.daftarkaryawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674998273969-s344ll420u7nmmt4qro2h143mhtctlj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ5D5ZcRAzBjXwVDnrebS4EMGsv5ICL_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674998273969-s344ll420u7nmmt4qro2h143mhtctlj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
